@@ -1,0 +1,5 @@
+# These will be installed to the python 2 environment
+solvebio==2.4.6
+plotly
+numpy
+matplotlib
